@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fontsz and I'm a Computer Engineering Student, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Gustavo, a Computer Engineering Student from Brazil</h2>
 
 ###
 
